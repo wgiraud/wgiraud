@@ -114,6 +114,11 @@ Microsserviço serverless para faturamento em nuvem
   
   ---
   
+ <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=4caf50&center=true&width=500&lines=Engenheiro+Full+Stack+apaixonado+por+Fintechs;Arquitetura+escalável;DevOps+%26+Cloud;Sempre+aprendendo+%F0%9F%9A%80" />
+  
+  ---
+  
   **Feito com ❤️ por Wagner Giraud**
   
   ⭐ Se você gostou, considere dar uma estrela nos meus repositórios!
